@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/root/code/tmp/tmp.OBLnaBriMX/main.cpp
+iostream
+-
+threadsafe_stack.h
+/root/code/tmp/tmp.OBLnaBriMX/threadsafe_stack.h
+thread
+-
+unistd.h
+-
+
+/root/code/tmp/tmp.OBLnaBriMX/threadsafe_stack.h
+mutex
+-
+exception
+-
+stack
+-
+memory
+-
+

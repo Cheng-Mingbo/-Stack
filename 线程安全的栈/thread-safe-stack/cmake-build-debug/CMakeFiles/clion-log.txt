@@ -1,0 +1,4 @@
+/usr/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_C_COMPILER=/usr/local/gcc-12.2.0/bin/gcc -DCMAKE_CXX_COMPILER=/usr/local/gcc-12.2.0/bin/g++ -G "CodeBlocks - Unix Makefiles" -S /root/code/tmp/tmp.OBLnaBriMX -B /root/code/tmp/tmp.OBLnaBriMX/cmake-build-debug
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /root/code/tmp/tmp.OBLnaBriMX/cmake-build-debug
